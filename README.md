@@ -3,7 +3,9 @@
 **Sistemas Complejos · Cibernética**  
 Programa de Ciencias de la Computación e Inteligencia Artificial  
 Universidad Sergio Arboleda · Bogotá
-
+Oscar Mateo Arrubla
+Juan Sebastián Niño Sanchez
+Jose Santiago González Enríquez 
 ---
 
 ## Descripción general
