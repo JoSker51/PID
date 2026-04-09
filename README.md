@@ -138,5 +138,12 @@ Esta gráfica, menos convencional pero muy informativa desde el punto de vista d
 
 Esta representación conecta directamente con el concepto de **atractor** de los sistemas complejos: el punto `(0, 0)` es el atractor del sistema, y toda la dinámica del controlador puede entenderse como el trabajo de llevar el estado del sistema hacia ese atractor y mantenerlo allí frente a perturbaciones.
 
+Conclusiones
+El controlador PID permite regular automáticamente la temperatura del horno de manera eficiente.
+Cada componente (P, I, D) cumple un rol específico: rapidez, precisión y estabilidad.
+El sistema es capaz de adaptarse a perturbaciones externas y recuperar el equilibrio sin intervención manual.
+La correcta sintonización de los parámetros Kp, Ki y Kd es clave para evitar oscilaciones o sobrepasos.
+Este modelo demuestra los principios de retroalimentación y control en sistemas dinámicos.
+
 
 
