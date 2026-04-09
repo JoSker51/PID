@@ -8,7 +8,7 @@ from matplotlib.animation import FuncAnimation
 
 # ── Parámetros del modelo físico del horno ─────────────────────────────────
 TAU     = 20.0   # constante de tiempo [s] — qué tan lento calienta/enfría
-K_PLANT = 1.8    # ganancia de la planta  — °C por % de potencia
+K_PLANT = 3.5    # ganancia de la planta  — °C por % de potencia
 DT      = 0.5    # paso de tiempo de integración [s]
 T0      = 0.0    # temperatura inicial [°C]
 SP0     = 150.0  # setpoint inicial [°C]
